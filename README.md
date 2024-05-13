@@ -4,4 +4,4 @@ estou estudando no Alura
 estou me desenvolvendo na linguagem javaScript
 utilizo esse espaço para minha organização e compartilhamento dos meu preojetos desenvolvidos 
 
-![](https://tenor.com/pt-BR/view/dancing-cat-dancing-kitten-60fps-boogie-cat-gif-24303276)
+![](https://media.tenor.com/P-8ZvqnS4AwAAAAM/dancing-cat-dancing-kitten.gif)
